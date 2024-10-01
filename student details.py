@@ -1,3 +1,8 @@
+"""#Author:Liya Binu
+Date:01-10-2024
+python program to get the student details
+
+
 name=input("enter the student name")
 roll_number=int(input("enter your roll number"))
 cgpa=float(input("enter the cgpa:"))
