@@ -9,5 +9,5 @@ while num1>0:
    r=num1%10
    num1=num1//10
    sum=sum+r
-print(sum)
+print("sum of digits is:",sum)
 
